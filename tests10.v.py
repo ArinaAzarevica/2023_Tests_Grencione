@@ -1,5 +1,5 @@
 #1 Azarēviča Arina
-
+2**4-3
 #2 Bāra Antuanete
 
 #3 Boja Ernests
